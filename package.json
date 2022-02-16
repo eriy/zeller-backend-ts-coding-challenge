@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "homepage": "https://github.com/zhaoyi0113/zeller-backend-ts-coding-challenge#README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhaoyi0113/zeller-backend-ts-coding-challenge.git"
+  },
+  "engines": {
+    "node": "16.13.1"
+  }
+}
